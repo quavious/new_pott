@@ -22,7 +22,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://happylandcn.gq",
+  "homepage": "https://quavious.github.io/new_pott",
   "browserslist": {
     "production": [
       ">0.2%",
