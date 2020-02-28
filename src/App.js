@@ -4,6 +4,14 @@ import './App.css';
 import Castle from './img/Castle.jpg';
 import Wall from './img/GreatWall.jpg'
 
+basename = "/new_pott";
+
+<Provider store={store}>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <App />
+  </BrowserRouter>
+</Provider>
+
 class App extends React.Component {
   siteArr = [
     "http://www.dongtaiwang.com",
