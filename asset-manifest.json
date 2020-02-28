@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/new_pott/static/css/main.b7179ac9.chunk.css",
+    "main.js": "/new_pott/static/js/main.8f29cec8.chunk.js",
+    "main.js.map": "/new_pott/static/js/main.8f29cec8.chunk.js.map",
+    "runtime-main.js": "/new_pott/static/js/runtime-main.0a042cbe.js",
+    "runtime-main.js.map": "/new_pott/static/js/runtime-main.0a042cbe.js.map",
+    "static/js/2.65418bf6.chunk.js": "/new_pott/static/js/2.65418bf6.chunk.js",
+    "static/js/2.65418bf6.chunk.js.map": "/new_pott/static/js/2.65418bf6.chunk.js.map",
+    "index.html": "/new_pott/index.html",
+    "precache-manifest.6701ab7049514ad9322a702bcbc45ca2.js": "/new_pott/precache-manifest.6701ab7049514ad9322a702bcbc45ca2.js",
+    "service-worker.js": "/new_pott/service-worker.js",
+    "static/css/main.b7179ac9.chunk.css.map": "/new_pott/static/css/main.b7179ac9.chunk.css.map",
+    "static/js/2.65418bf6.chunk.js.LICENSE.txt": "/new_pott/static/js/2.65418bf6.chunk.js.LICENSE.txt",
+    "static/media/Castle.jpg": "/new_pott/static/media/Castle.6d20d319.jpg",
+    "static/media/GreatWall.jpg": "/new_pott/static/media/GreatWall.8ac9b07b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a042cbe.js",
+    "static/js/2.65418bf6.chunk.js",
+    "static/css/main.b7179ac9.chunk.css",
+    "static/js/main.8f29cec8.chunk.js"
+  ]
+}
